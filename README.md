@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Asteroid Shooter Game
 
 Welcome to **Asteroid Shooter**, a classic space-themed game where you control a spaceship, dodge asteroids, and shoot them to survive! This project is built using **Pygame**, a popular Python library for creating 2D games.
@@ -27,4 +26,3 @@ Welcome to **Asteroid Shooter**, a classic space-themed game where you control a
    ```bash
    git clone https://github.com/ifeanyi-ekpu/asteroid.git
    cd asteroid-shooter
->>>>>>> 42ed333 (Add README.md file)
